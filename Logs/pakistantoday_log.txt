@@ -1,0 +1,1 @@
+Error in processing : [Errno 2] No such file or directory: 'C:\\Users\\ali_a\\Desktop\\Crawlers\\PakistanToday_HtmlFiles\\kate-spade-suffered-from-depression-for-years-husband.html'Error in processing : [Errno 2] No such file or directory: 'C:\\Users\\ali_a\\Desktop\\Crawlers\\PakistanToday_HtmlFiles\\bob-marleys-biopic-in-the-making.html'
